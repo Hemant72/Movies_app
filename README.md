@@ -1,16 +1,20 @@
-# movies_app
+# Flutter Movie App 🎬
 
-A new Flutter project.
+A modern Flutter application that allows users to browse popular movies, view details, and manage their favorites. Built with Flutter Bloc for state management and featuring a clean, responsive UI with smooth animations.
 
-## Getting Started
+![App Screenshot 1](screenshots/movies_screen.jpg)
+![App Screenshot 2](screenshots/movie_details.jpg)
+![App Screenshot 3](screenshots/favorites_screen.jpg)
 
-This project is a starting point for a Flutter application.
+## Features ✨
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Browse popular movies from TMDB
+- View detailed movie information
+- Add/remove movies to favorites
+- Persistent favorites storage
+- Infinite scroll loading
+- Smooth transitions and animations
+- Dark theme
+- Responsive grid layout
+- Loading state shimmer effects
+- Hero animations for smooth navigation
